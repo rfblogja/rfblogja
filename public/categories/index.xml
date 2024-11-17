@@ -7,10 +7,10 @@
 >
   <channel>
     <title>Categories on rfblogja | Vallássérült, PTSD, trauma. Útkeresés, ébredés, gyógyulás.</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://rfblogja.onrender.com/categories/</link>
     <description>Recent content in Categories on rfblogja | Vallássérült, PTSD, trauma. Útkeresés, ébredés, gyógyulás.</description>
     <generator>Hugo</generator>
     <language>hu-hu</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rfblogja.onrender.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
