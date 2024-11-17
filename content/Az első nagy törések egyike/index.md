@@ -1,0 +1,13 @@
+---
+title: Az első nagy törések egyike
+summary: A Biblia moralitásának legnagyobb tesztje volt számomra, amikor rájöttem, hogy egy homoszexuális nem tudatosan választ.
+date: 2024-05-28
+draft: false
+---
+Van egy srác, akit elég jól ismertem gyerekkorában. Az anyjától elvált apjával nagyon rossz volt a viszonya, nem is beszélt vele. A sors úgy hozta, hogy nálunk lakott egy évig, mivel az anyja egy nehéz műtét miatt nem volt képes ellátni őt. Így tulajdonképpen engem afféle apapótléknak tekintett, és nagy szeretettel viszonyult hozzám. Láttam, ahogy felnőtt, honnan jött, kivé lett.
+
+Egy nap, már fiatal felnőttként megkeresett, és megbeszéltünk egy találkozót. Elmondta magáról, hogy homoszexuális és szerelmes egy fiúba. Ez, ha nem is meglepetésként ért, de kultúrsokkot mindenképp okozott, mert ugyan korábban sejtettem ezt, de mindig elhessegettem a gondolatot, mert a tanításhoz hű keresztényként azt gondoltam a homoszexualitásról, hogy az bűn, amit Isten gyűlöl. Tehát, ahogy a srác, akit kicsit fiamként is szerettem, beszélt, én hallgattam. A tanítás szerint “gyűlölni kell a bűnt, de szeretni a bűnöst”. De volt egy nagy probléma: a szeretet az én fogalmaim szerint elfogadást is jelent. Márpedig azt mondani neki, hogy “térjen meg a bűnéből de azért szeretem”, elég furán hangzana (és bizony az anyjával és nevelőapjával is így romlott meg a viszonya, mert ők ragaszkodtak ehhez az állásponthoz).
+
+Ahogy beszélt és nézett rám, szinte sütött a szeméből, hogy “ugye elfogadsz így is?”. Én úgy tanultam, hogy a homoszexualitás egy döntés a bűn mellett, amiből megtéréskor ki lehet gyógyulni, és hallottam történeteket is, hogy tett csodát valakivel Isten, mert kigyógyult a homoszexualitásból. Azonban én láttam a srác életét kicsikora óta, és határozottan tudom, hogy nem ő döntött úgy, hogy meleg akar lenni. Lehet azon vitatkozni, hogy valaki így születik-e, vagy a neveltetése során az ösztönös túlélési stratégiák következménye, vagy valamilyen minta követése miatt lesz azzá, a bizonyosság attól még bennem ott volt: **ő nem tehet arról, hogy homoszexuális, és nem ő döntött így**. Tehát az örökkévaló pokollal fenyegető következmény a szememben fából vaskarika lett.
+
+Így hát megszületett az első komoly döntés bennem, ami végül a kereszténységtől való teljes elszakadáshoz vezetett: őt választom, és nem érdekel, mit mond a Biblia, én őt el akarom fogadni, úgy, ahogy van. Inkább dobom el a tanítást, amit kaptam, ha az szembemegy az emberi természettel, amelyik szeretni akarja a hozzá közelállókat. Ez az esemény kihozott akkor belőlem valamit, amit még a saját családom sem tudott addig megtenni: egy pillanatra kinéztem a páncélom mögül és élni/érezni akartam. Ez volt az egyike azon fontos eseményeknek, amik végül az ébredéshez vezettek.

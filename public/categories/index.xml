@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss
+  version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  
+>
+  <channel>
+    <title>Categories on rfblogja | Vallássérült, PTSD, trauma. Útkeresés, ébredés, gyógyulás.</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on rfblogja | Vallássérült, PTSD, trauma. Útkeresés, ébredés, gyógyulás.</description>
+    <generator>Hugo</generator>
+    <language>hu-hu</language>
+    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

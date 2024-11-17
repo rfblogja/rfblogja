@@ -1,0 +1,11 @@
+baseURL: https://example.com
+languageCode: hu-hu
+defaultContentLanguage: hu
+title: "rfblogja | Vallássérült, PTSD, trauma. Útkeresés, ébredés, gyógyulás."
+theme: fluency
+params:
+  # set number of post of specify type of content
+  pageSize:
+    index: 50
+    list: 10
+    archives: 20
