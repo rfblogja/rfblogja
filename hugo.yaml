@@ -3,6 +3,7 @@ languageCode: hu-hu
 defaultContentLanguage: hu
 title: "rfblogja | Vallássérült, PTSD, trauma. Útkeresés, ébredés, gyógyulás."
 theme: fluency
+# theme: vitae
 params:
   # set number of post of specify type of content
   pageSize:

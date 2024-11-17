@@ -1,3 +1,15 @@
 [submodule "themes/fluency"]
 	path = themes/fluency
 	url = https://github.com/wayjam/hugo-theme-fluency.git
+[submodule "themes/pixyll"]
+	path = themes/pixyll
+	url = https://github.com/azmelanar/hugo-theme-pixyll.git
+[submodule "themes/vitae"]
+	path = themes/vitae
+	url = https://github.com/dataCobra/hugo-vitae.git
+[submodule "themes/search"]
+	path = themes/search
+	url = https://github.com/hbstack/theme-search.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
