@@ -13,3 +13,9 @@
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/rocinante"]
+	path = themes/rocinante
+	url = https://github.com/mavidser/hugo-rocinante.git
+[submodule "themes/lowkey"]
+	path = themes/lowkey
+	url = https://github.com/nixentric/Lowkey-Hugo-Theme.git
