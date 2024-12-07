@@ -19,6 +19,9 @@ Varázsló asszonyt ne hagyj életben!
 *4 Mózes 30:14*
 Minden fogadalmat és minden esküt, amellyel önmegtartóztatásra kötelezi magát, a férje tesz érvényessé, és a férje tesz érvénytelenné.
 
+*5 Mózes 22:13*
+Ha valaki feleséget vesz, és bemegy hozzá, de azután meggyűlöli \[...\] itt vannak lányom szüzességének a bizonyítékai \[...\] A nő maradjon a felesége, és nem szabad elbocsátania egész életében \[...\] De ha igaz volt a vád, és a lány nem volt szűz, akkor vigyék a lányt apja házának a bejáratához, és kövezzék halálra a város férfiai.
+
 *5 Mózes 22:28*
 Ha valaki egy el nem jegyzett szűz lánnyal találkozik, megragadja, és vele hál, és rajtakapják őket, akkor az a férfi, aki vele hált, adjon a lány apjának ötven ezüstöt, a lány pedig legyen a felesége, mivel erőszakot követett el rajta; nem is szabad elbocsátania egész életében.
 
